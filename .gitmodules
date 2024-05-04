@@ -5,3 +5,6 @@
 [submodule "RainfallErosivityFactor"]
 	path = RainfallErosivityFactor
 	url = https://github.com/cran/RainfallErosivityFactor
+[submodule "SoilConservation"]
+	path = SoilConservation
+	url = https://github.com/cran/SoilConservation
